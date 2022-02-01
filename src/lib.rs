@@ -1,0 +1,1 @@
+pub const HELLO_RUST: &str = "Hello rust!";
